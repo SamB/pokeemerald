@@ -8,7 +8,7 @@ In general, you should not need to open these unless if you get an error or if y
 If you run into trouble, ask for help on Discord or IRC (see [README.md](README.md)).
 
 ## Windows
-Windows has instructions for building with three possible terminals, providing 3 different options in case the user stumbles upon unexpected errors.
+Windows has instructions for building with three possible Unix compatibility layers, providing 3 different options in case the user stumbles upon unexpected errors.
 - [Windows 10/11 (WSL1)](#windows-1011-wsl1) (**Fastest, highly recommended**, Windows 10 and 11 only)
 - [Windows (msys2)](#windows-msys2) (Second fastest)
 - [Windows (Cygwin)](#windows-cygwin) (Slowest)
